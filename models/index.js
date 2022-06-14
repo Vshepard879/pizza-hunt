@@ -1,4 +1,3 @@
-const Pizza = require('./models/Pizza');
+const Pizza = require('./Pizza');
 
-
-module.exports = { Pizza};
+module.exports = { Pizza };
